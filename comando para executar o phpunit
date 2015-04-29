@@ -1,0 +1,5 @@
+php vendor/phpunit/phpunit/phpunit -c tests/phpunit.xml
+
+ou
+
+php vendor/phpunit/phpunit/phpunit Tests
